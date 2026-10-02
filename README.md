@@ -1,6 +1,6 @@
 # React + Vite + shadcn/ui Starter Template
 
-A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components. Built utilizing Gebeya Dala Studio.
+A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
 
 ## 🚀 Features
 
