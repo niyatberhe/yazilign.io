@@ -23,6 +23,9 @@ pnpm-debug.log*
 # Supabase local development artifacts
 supabase/.temp/
 
+# Vercel local project metadata
+.vercel/
+
 # Editor and operating system files
 .vscode/
 .idea/
