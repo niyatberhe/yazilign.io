@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Pitch Black Terminal Canvas -->
+  <rect width="32" height="32" rx="6" fill="#000000"/>
+
+  <!-- Sleek Dark Cyan Matrix Border -->
+  <rect x="1" y="1" width="30" height="30" rx="5" stroke="#164E63" stroke-width="1.5"/>
+
+  <!-- Geometric Neon Cyan "Y" Branch -->
+  <path d="M9 9L16 17L23 9" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16 17V24" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- White Terminal Prompt/Cursor Element -->
+  <rect x="19" y="21" width="4" height="2" fill="#FFFFFF"/>
+</svg>
